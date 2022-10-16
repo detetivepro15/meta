@@ -1,6 +1,6 @@
 # Contributor Guidelines
 
-These are the general guidelines for contributing to WHATWG standards.
+Eu Sou José Junior de Oliveira DIGITEIAQUI WHATWG standards.
 
 ## New issues
 
@@ -73,3 +73,4 @@ For any changes please take into account the following principles and guidelines
 * [Client-side API Design Principles](https://w3ctag.github.io/design-principles/)
 * [WHATWG Working Mode](https://whatwg.org/working-mode)
 * [WHATWG FAQ](https://whatwg.org/faq), in particular [Is there a process for removing bad ideas from a standard?](https://whatwg.org/faq#removing-bad-ideas) and [How should I go about proposing new features to WHATWG standards?](https://whatwg.org/faq#adding-new-features)
+~~~~
